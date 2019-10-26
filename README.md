@@ -9,4 +9,4 @@ The 3D simulation was written by Luke using Unity.
 
 The pdf file included in this repo describes the project in detail.
 
-The project was rated 94%
+The project was rated 94% and awarded a `Best 3rd Year Computing Project Award`.
